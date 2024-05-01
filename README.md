@@ -15,7 +15,7 @@ O desafio 'Criando um Sistema Bancário com Python', sob a responsabilidade do p
 
 ## Objetivo Geral
 
-Separar as funções existentes de saque, depósito e extrato em funções. Criar duas novas funções: cadastrar usuário (cliente) e cadastrar conta bancária.
+O objetivo desse desafio é criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 
 
 ## Proposta
